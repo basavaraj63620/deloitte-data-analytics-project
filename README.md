@@ -29,7 +29,7 @@ This project helped develop skills in:
 - Business problem solving
 - 
 - ## 📷 Dashboard Preview
-![Dashboard](image-link)
+![Dashboard](https://github.com/basavaraj63620/deloitte-data-analytics-project/blob/main/Screenshot%202026-03-17%20191233.png)
 
 ## 👤 Author
 Basavaraj Jadhav
